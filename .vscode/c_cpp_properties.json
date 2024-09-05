@@ -20,11 +20,13 @@
                 "c:\\users\\odie\\appdata\\local\\arduino15\\packages\\teensy\\tools\\teensy-compile\\11.3.1\\arm\\arm-none-eabi\\include\\c++\\11.3.1\\backward",
                 "c:\\users\\odie\\appdata\\local\\arduino15\\packages\\teensy\\tools\\teensy-compile\\11.3.1\\arm\\lib\\gcc\\arm-none-eabi\\11.3.1\\include",
                 "c:\\users\\odie\\appdata\\local\\arduino15\\packages\\teensy\\tools\\teensy-compile\\11.3.1\\arm\\lib\\gcc\\arm-none-eabi\\11.3.1\\include-fixed",
-                "c:\\users\\odie\\appdata\\local\\arduino15\\packages\\teensy\\tools\\teensy-compile\\11.3.1\\arm\\arm-none-eabi\\include"
+                "c:\\users\\odie\\appdata\\local\\arduino15\\packages\\teensy\\tools\\teensy-compile\\11.3.1\\arm\\arm-none-eabi\\include",
+                "C:/Users/Odie/Documents/Arduino/libraries",
+                "C:/Users/Odie/Documents/Arduino/libraries/ods_util",
+                "C:/Users/Odie/Documents/Arduino/libraries/PWMServo",
+                "C:/Users/Odie/Documents/Arduino/libraries/WiFi/extras/wifiHD/src/SOFTWARE_FRAMEWORK/DRIVERS/SPI"
             ],
-            "forcedInclude": [
-                "C:\\Users\\Odie\\AppData\\Local\\Temp\\arduino\\sketches\\51718B1197F7FD42FAEEC1533E8A93C9\\pch\\Arduino.h"
-            ],
+            "forcedInclude": [],
             "cStandard": "c11",
             "cppStandard": "c++17",
             "defines": [
