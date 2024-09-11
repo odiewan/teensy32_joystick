@@ -284,7 +284,7 @@ void taskDigRead() {
   btn3 = digitalRead(BTN3_PIN) ? false : true;
   btn4 = digitalRead(BTN4_PIN) ? false : true;
   btn5 = digitalRead(BTN5_PIN) ? false : true;
-  btn6 = digitalRead(BTN5_PIN) ? false : true;
+  btn6 = digitalRead(BTN6_PIN) ? false : true;
 
 
 
@@ -295,9 +295,7 @@ void taskDigRead() {
   btn4Shadow = btn4;
   btn5Shadow = btn5;
   btn6Shadow = btn6;
-  btn4Shadow = btn4;
-
-  }
+}
 
 //=============================================================================
 void taskAnalogRead() {
